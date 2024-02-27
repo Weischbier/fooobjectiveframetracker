@@ -1,6 +1,6 @@
 # FoOFT - WoW Addon
 
-FoOFT (Frame on/off Toggle) is a World of Warcraft addon that provides a convenient way to toggle the visibility of the default Objective Tracker frame. This can be useful for players who want quick access to their quest objectives without cluttering their screen.
+Fuck off ObjectiveFrameTracker (FoOFT) is a World of Warcraft addon that provides a convenient way to toggle the visibility of the default Objective Tracker frame. This can be useful for players who want quick access to their quest objectives without cluttering their screen.
 
 ## Features
 
