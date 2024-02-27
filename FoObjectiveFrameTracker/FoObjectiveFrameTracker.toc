@@ -1,0 +1,8 @@
+## Interface: 100205
+## Title: FoObjectiveFrameTracker
+## Notes: Addon to hide the ObjectiveFrameTracker via Hotkey.
+## Version: 0.1a
+## Author: The Salty Seagull
+## SavedVariables: FoOFTDB
+
+Core.lua

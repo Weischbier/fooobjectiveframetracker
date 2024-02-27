@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding category='ObjectiveFrameTracker' name='Toggle Objective Frame Tracker' runOnUp='false'>
+    FoObjectiveFrameTracker_HotkeyPressed(keystate)
+  </Binding>
+  <Binding category='ObjectiveFrameTracker' name='Reload the Interface' runOnUp='false'>
+    FoObjectiveFrameTracker_Reload_HotkeyPressed(keystate)
+  </Binding>
+</Bindings>
