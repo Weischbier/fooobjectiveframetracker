@@ -9,7 +9,7 @@ Fuck off ObjectiveFrameTracker (FoOFT) is a World of Warcraft addon that provide
 
 ## Installation
 
-1. Download the latest release from the [Releases]([https://github.com/yourusername/yourrepository/releases](https://github.com/Weischbier/fooobjectiveframetracker/releases/tag/rel)) page.
+1. Download the latest release from the [Releases](https://github.com/Weischbier/fooobjectiveframetracker/releases/tag/rel) page.
 2. Extract the contents of the ZIP file into your WoW `Interface/AddOns` directory.
 
 ## Usage
@@ -23,7 +23,7 @@ The addon uses the default settings, and the state (visible or hidden) is saved 
 
 ## Issues and Contributions
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Weischbier/fooobjectiveframetracker/issues)) on the GitHub repository.
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Weischbier/fooobjectiveframetracker/issues) on the GitHub repository.
 
 ## License
 
